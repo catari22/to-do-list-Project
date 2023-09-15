@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "title": "Make the bed",
+            "description": "Remember to clean the pillows",
+            "check": false
+        },
+        {
+
+            "id": 2,
+            "title": "Fix the shoe",
+            "description": "Remember to clean it",
+            "check": false
+        }
+    ]
+}
